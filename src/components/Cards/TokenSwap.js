@@ -86,7 +86,7 @@ const TokenSwap = ({ title }) => {
                       <button className="sushi--ml-px sushi-relative sushi-inline-flex sushi-items-center sushi-cursor-default sushi-rounded-r-md sushi-border sushi-border-gray-300 sushi-bg-white sushi-pl-3 sushi-pr-10 sushi-py-2 sushi-text-left focus:sushi-outline-none focus:sushi-shadow-outline-blue focus:sushi-border-blue-300 sushi-transition sushi-ease-in-out sushi-duration-150 sm:sushi-text-sm sm:sushi-leading-5">
                         <div className="sushi-flex sushi-items-center sushi-space-x-3">
                           <img
-                            src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+                            src="https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
                             alt=""
                             className="sushi-flex-shrink-0 sushi-h-6 sushi-w-6 sushi-rounded-full"
                           />
@@ -146,7 +146,7 @@ const TokenSwap = ({ title }) => {
                       <button className="sushi--ml-px sushi-relative sushi-inline-flex sushi-items-center sushi-cursor-default sushi-rounded-r-md sushi-border sushi-border-gray-300 sushi-bg-white sushi-pl-3 sushi-pr-10 sushi-py-2 sushi-text-left focus:sushi-outline-none focus:sushi-shadow-outline-blue focus:sushi-border-blue-300 sushi-transition sushi-ease-in-out sushi-duration-150 sm:sushi-text-sm sm:sushi-leading-5">
                         <div className="sushi-flex sushi-items-center sushi-space-x-3">
                           <img
-                            src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+                            src="https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
                             alt=""
                             className="sushi-flex-shrink-0 sushi-h-6 sushi-w-6 sushi-rounded-full"
                           />

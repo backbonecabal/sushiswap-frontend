@@ -174,7 +174,7 @@ function PairList({ pairs, color, disbaleLinks, maxItems = 10 }) {
                 <div className="flex items-center">
                   <img
                     className="relative z-30 inline-block h-6 w-6 rounded-full text-white shadow-solid"
-                    src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                    src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                       pairData.token0.id
                     )}/logo.png`}
                     onError={(e) => {
@@ -185,7 +185,7 @@ function PairList({ pairs, color, disbaleLinks, maxItems = 10 }) {
                   />
                   <img
                     className="relative z-20 -ml-1 inline-block h-6 w-6 rounded-full text-white shadow-solid"
-                    src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                    src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                       pairData.token1.id
                     )}/logo.png`}
                     onError={(e) => {

@@ -419,7 +419,7 @@ const Pools = ({ title, pools, showWallets }) => {
                           <div className="sushi-text-xs">
                             <div className="sushi-flex sushi-items-center">
                               <img
-                                src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                                src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                                   pool.uniswapPair.token0.id
                                 )}/logo.png`}
                                 onError={(e) => {
@@ -441,7 +441,7 @@ const Pools = ({ title, pools, showWallets }) => {
                             </div>
                             <div className="sushi-flex sushi-items-center sushi-mt-1.5">
                               <img
-                                src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                                src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                                   pool.uniswapPair.token1.id
                                 )}/logo.png`}
                                 onError={(e) => {

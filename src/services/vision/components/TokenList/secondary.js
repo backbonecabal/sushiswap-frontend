@@ -227,7 +227,7 @@ function TopTokenList({ tokens, itemMax = 10 }) {
                 <div className="flex-shrink-0 w-10 h-10 text-3xl">
                   <img
                     class="max-w-none h-6 w-6 rounded-full text-white shadow-solid mt-2"
-                    src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                    src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                       item.id
                     )}/logo.png`}
                     onError={(e) => {

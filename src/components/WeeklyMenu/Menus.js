@@ -159,7 +159,7 @@ const CurrentMenu = ({ scrollToCurrent, pathToMenu }) => {
                     (index !== 0 && "sushi--ml-2 ") +
                     "sushi-inline-block sushi-h-8 sushi-w-8 sushi-rounded-full sushi-text-white sushi-shadow-solid"
                   }
-                  src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                  src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                     _.find(supportedPools, ["pid", Number(pid)])?.tokenAddresses["1"]
                   )}/logo.png`}
                   onError={(e) => {
@@ -213,7 +213,7 @@ export const UpcomingMenu = () => {
                         (index !== 0 && "sushi--ml-2 ") +
                         "sushi-inline-block sushi-h-10 sushi-w-8 sushi-rounded-full sushi-text-white sushi-shadow-solid"
                       }
-                      src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                      src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                         _.find(supportedPools, ["pid", Number(pid)])?.tokenAddresses["1"]
                       )}/logo.png`}
                       onError={(e) => {

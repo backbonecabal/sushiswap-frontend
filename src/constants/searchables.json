@@ -7,7 +7,7 @@
       "name": "SushiBar",
       "symbol": "xSUSHI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+      "logoURI": "https://rawcdn.githack.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
     },
     {
       "type": "token",
@@ -16,7 +16,7 @@
       "name": "SushiSwap",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+      "logoURI": "https://rawcdn.githack.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
     },
     {
       "type": "token",

@@ -61,7 +61,7 @@ const PageTitleBreadcrumb = ({ type, name, price, price2, priceChange, symbol, s
                     <div className="sushi-mr-8 sushi-flex sushi-items-center sushi-flex-shrink-0 sushi-w-10 sushi-h-10 sushi-text-2xl">
                       <img
                         className="sushi-relative sushi-z-30 sushi-inline-block sushi-rounded-full sushi-text-white sushi-shadow-solid"
-                        src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                        src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                           id
                         )}/logo.png`}
                         onError={(e) => {
@@ -72,7 +72,7 @@ const PageTitleBreadcrumb = ({ type, name, price, price2, priceChange, symbol, s
                       />
                       <img
                         className="sushi-relative sushi-z-20 sushi--ml-4 sushi-inline-block sushi-rounded-full sushi-text-white sushi-shadow-solid"
-                        src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                        src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                           id2
                         )}/logo.png`}
                         onError={(e) => {
@@ -153,7 +153,7 @@ const PageTitleBreadcrumb = ({ type, name, price, price2, priceChange, symbol, s
                     >
                       <img
                         class="sushi-rounded-full sushi-text-white sushi-shadow-solid"
-                        src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                        src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                           id
                         )}/logo.png`}
                         alt={name + " Logo"}

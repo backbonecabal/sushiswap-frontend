@@ -63,7 +63,7 @@ export const SUSHI_TOKENS = [
     symbol: "SUSHI",
     decimals: 18,
     logoURI:
-      "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png",
+      "https://rawcdn.githack.com/sushiswapclassic/token-list/master/assets/SUSHI.png",
   },
   {
     address: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",

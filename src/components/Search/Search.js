@@ -54,7 +54,7 @@ const TokenResult = ({ item }) => {
             src={
               result.name === "SushiSwap" || result.name === "YAMv2" || result.name == "SushiBar"
                 ? result.logoURI
-                : "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/" +
+                : "https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/" +
                   result.address +
                   "/logo.png"
             }

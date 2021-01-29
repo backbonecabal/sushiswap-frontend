@@ -271,11 +271,11 @@ const BoringApp = () => {
                                 <div className="flex flex-shrink-0 -space-x-1">
                                   <img
                                     className="relative z-30 inline-block h-6 w-6 rounded-full text-white shadow-solid"
-                                    src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+                                    src="https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
                                   />
                                   <img
                                     className="relative z-20 -ml-1 inline-block h-6 w-6 rounded-full text-white shadow-solid"
-                                    src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+                                    src="https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
                                   />
                                 </div>
                                 <div className="flex items-center space-x-3 lg:pl-2">

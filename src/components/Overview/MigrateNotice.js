@@ -30,7 +30,7 @@ export const MigrateNotice = () => {
             <img
               className={"inline-block h-16 w-16 rounded-full text-white shadow-solid"}
               src={
-                "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+                "https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
               }
               onError={(e) => {
                 e.target.onerror = null;

@@ -36,7 +36,7 @@ const CurrentMenu = ({ scrollToCurrent, pathToMenu }) => {
                     <li>
                       <img
                         className={"h-8 w-8 rounded-full text-white shadow-solid"}
-                        src={`https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
+                        src={`https://rawcdn.githack.com/trustwallet/assets/master/blockchains/ethereum/assets/${isAddress(
                           _.find(supportedPools, ["pid", Number(pid)])?.tokenAddresses["1"]
                         )}/logo.png`}
                         onError={(e) => {
