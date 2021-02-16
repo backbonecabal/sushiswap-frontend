@@ -1,0 +1,14 @@
+name: stylelint
+on: [push]
+jobs:
+  stylelint:
+    name: runner / stylelint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: stylelint
+        uses: reviewdog/action-stylelint@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review # Change reporter.
+          stylelint_input: '**/*.css'
